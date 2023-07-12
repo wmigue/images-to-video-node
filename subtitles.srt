@@ -1,0 +1,16 @@
+1
+00:00:00,394 --> 00:00:05,031
+<i>Presentación
+<font color="#FE00FE">casa chalet</font></i>
+
+2
+00:00:06,000 --> 00:00:09,099
+<i> 3 baños, living comedor </i>
+
+3
+00:00:10,000 --> 00:00:14,099
+<i>contiene una <b>PISCINA!</b></i>
+
+4
+00:00:15,000 --> 00:00:19,099
+<i>Step 4 description<b>baño de servicio completo.</b></i>

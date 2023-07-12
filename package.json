@@ -1,0 +1,20 @@
+{
+  "name": "converter-img-video",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "",
+  "scripts": {
+    "convert": "node videoshow-example.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ffmpeg-installer/ffmpeg": "^1.1.0",
+    "ffmpeg-static": "^5.1.0",
+    "ffprobe-static": "^3.1.0",
+    "jimp": "^0.22.8",
+    "uuid4": "^2.0.3",
+    "videoshow": "^0.1.12"
+  }
+}
